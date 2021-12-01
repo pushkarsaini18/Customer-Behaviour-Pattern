@@ -10,7 +10,7 @@ Hierarchical clustering involves creating clusters that have a predetermined ord
 ### K Means Clustering
 K means is an iterative clustering algorithm that aims to find local maxima in each iteration. This algorithm works in these 5 steps :
 
-Step 1: Specify the desired number of clusters K : Let us choose k=2 for these 5 data points in 2-D space.
+Step 1: Specify the desired number of clusters K.
 
 Step 2: Randomly assign each data point to a cluster.
 
